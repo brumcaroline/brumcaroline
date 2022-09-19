@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<ul>
+  <li> Programmer in training. :)</li>
+</ul>
+
+ ##
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brumcaroline&show_icons=true&locale=en" alt="brumcaroline" /></p>
