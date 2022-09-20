@@ -1,6 +1,6 @@
 ### Hello, (new) World! 🌍
 
- - 👩🏻‍💻 Programmer in training.
+ - 👩🏻‍💻 Programmer in training
  - 📫 Get in touch: **carolinefbrum@gmail.com** :)
  
 <h3 align="left">Languages and Tools:</h3>
