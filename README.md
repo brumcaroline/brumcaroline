@@ -1,6 +1,7 @@
 ### Hello, (new) World! 🌍
 
  - 👩🏻‍💻 Programmer in training
+ - 🌱 I’m continously learning **Ruby on Rails, CSS, JS, React**
  - 📫 Get in touch: **carolinefbrum@gmail.com** :)
  
 <h3 align="left">Languages and Tools:</h3>
