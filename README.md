@@ -1,4 +1,4 @@
-### Hello, (new) World! 🌍
+## Olá, sou Caroline Brum! 
 
  - 👩🏻‍💻 Programmer in training
  - 🌱 I’m continously learning **Ruby on Rails, CSS, JS, React**
