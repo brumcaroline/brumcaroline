@@ -2,6 +2,7 @@
 
  - 👩🏻‍💻 Programmer in training
  - 🌱 I’m continously learning **Ruby on Rails, CSS, JS and React**
+ - 🚀 My portfolio: https://brumcaroline.github.io/my-portfolio/
  
  🌟 #OpenToWork
  
